@@ -21,7 +21,7 @@
     "auth0-js": "^8.8.0",
     "bootstrap": "^3.3.7",
     "browserify": "^15.0.0",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "cors": "^2.8.4",
     "datatables": "^1.10.13",
     "datatables.net-dt": "^1.10.19",
